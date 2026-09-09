@@ -1,3 +1,5 @@
+<img width="1029" height="579" alt="Captura de tela 2026-09-09 204202" src="https://github.com/user-attachments/assets/efeceaa8-8edb-4c6a-b507-448fc01ca432" />
+<img width="1029" height="579" alt="Captura de tela 2026-09-09 204202" src="https://github.com/user-attachments/assets/59e50484-e73a-49a3-a7c0-d2534838e9f1" />
 # 📊 Dashboard de Vendas e Perfil de Clientes — TechStore
 
 Projeto end-to-end de Business Intelligence integrando um banco de dados relacional **MySQL** ao **Power BI** otimizado via **SQL Views**.
