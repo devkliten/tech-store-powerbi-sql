@@ -2,6 +2,12 @@
 
 Projeto end-to-end de Business Intelligence integrando um banco de dados relacional **MySQL** ao **Power BI** otimizado via **SQL Views**.
 
+
+### 🧮 Linguagem DAX Aplicada
+* **Medidas Agregadoras:** SUM, COUNTROWS, DISTINCTCOUNT e AVERAGE para KPIs primários.
+* **Funções Iteradoras:** SUMX combinada com RELATED para cálculo de Margem Bruta Total por produto.
+* **Manipulação de Contexto:** CALCULATE e DIVIDE para métricas de canais específicos e eficiência de entregas.
+
 ---
 
 ## 🛠️ Tecnologias Utilizadas
